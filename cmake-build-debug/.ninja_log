@@ -1,0 +1,8 @@
+# ninja log v5
+593	767	7217926600088804	NIMTwo.exe	b9e50ee89c2a01fe
+2	465	7218027303279898	build.ninja	3dc7b5cde28cd9a7
+28	1793	7217906481798122	CMakeFiles/NIMTwo.dir/functions.cpp.obj	1592277c7915a655
+15	538	7217804240183164	CMakeFiles/NIMTwo.dir/main.cpp.obj	2fd0a8d08d28851c
+3	592	7217926598403319	CMakeFiles/NIMTwo.dir/nim_cg.cpp.obj	b1caedde19318f09
+5	721	7268207352303984	CMakeFiles/NIMTwo.dir/nim_cg.cpp.obj	b1caedde19318f09
+721	995	7268207354992816	NIMTwo.exe	b9e50ee89c2a01fe
